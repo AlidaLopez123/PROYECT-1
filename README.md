@@ -1,4 +1,5 @@
-
+## Enlace con Archivo Personal
+[["Mi documento personal"](https://docs.google.com/document/d/1KxtQIheTBRJ76QMhHr5eF6_3RisbCXs9Uwyljt8ik00/edit?usp=sharing)]
 # Educación del Preceptor en la República Argentina: Investigación Específica para la Provincia de Misiones
 
 ## Resumen Ejecutivo
